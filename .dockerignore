@@ -1,0 +1,11 @@
+.git/
+.gitignore
+.gitattributes
+*.md
+*.pdf
+out/
+final/
+__pycache__/
+*.pyc
+.venv/
+.uv/
